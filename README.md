@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D4FF&center=true&vline=true&width=600&lines=🏠+Smart+Home+Manager;Java+OOP+Desktop+App;Glassmorphic+Swing+UI" alt="Typing SVG" />
+# 🏠 Smart Home Manager
+### Java OOP Desktop App | Glassmorphic Swing UI
 
 <br/>
 
