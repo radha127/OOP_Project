@@ -1,0 +1,3 @@
+HOME|My Smart Home
+FAN|1|fan|kitchen|true|3
+LIGHT|2|bulb|bedroom|false|80
